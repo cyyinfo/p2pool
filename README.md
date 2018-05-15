@@ -1,3 +1,5 @@
+windows 教程  http://8btc.com/article-1804-1.html
+
 Requirements:
 -------------------------
 Generic:
