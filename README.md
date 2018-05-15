@@ -25,6 +25,8 @@ configurations, using P2Pool should be as simple as:
 
     python run_p2pool.py
 
+    run_p2pool.exe abc 123 -a 钱包地址 --bitcoind-address 127.0.0.1 --net bitcoin --give-author 0.3 --outgoing-conns 10
+
 Then run your miner program, connecting to 127.0.0.1 on port 9332 with any
 username and password.
 
